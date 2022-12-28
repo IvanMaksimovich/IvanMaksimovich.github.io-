@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Автомастерская</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+    <!-- Основной блок сайта -->
+    <div id="basic">
+     
+        <!-- Шапка сайта -->
+        <div id="head-site">
+            <a href="#"><img src="автосервис-логотип-png-7.png" alt="Автомастерская" title="Автомастерская" /></a>
+            <img src="phone-13936.png" alt="+7 (3537) 25-60-60" title="+7 (3537) 25-60-60" class="telefon" />
+            <h3 style="text-align:right;">Контакты</h3>
+            <div class="meanous-andscoev">
+            <h4 style="text-align:right;" class="aio-icon-title">Телефон для связи:
+                +7-898-896-44-44
+            </h4>
+            </div>
+          
+        </div>
+         
+        <!-- Верхнее меню сайта -->
+        <div id="menu-top">
+        <div class="bg-1">
+            <ul>
+            <li><a href="#">О нас</a></li>
+            <li><a href="#">Прайс-лист</a></li>
+            <li><a href="#">Отзывы</a></li>
+            <li><a href="#">Запись на услуги</a></li>
+            <li><a href="#">Наши партнеры</a></li>
+            <li class="none-bg"><a href="#">Контакты</a></li>
+            </ul>
+        </div>
+        <div class="bg-2"></div>
+        </div>
+         
+        <!-- Левое меню и Контент -->
+        <div id="content">
+         
+            <!-- Контент - правый блок -->
+            <div class="right">
+                <h1>Автомастерская</h1>
+                <p>Автосервис – предприятие, оказывающее услуги по техническому обслуживанию автотранспорта, ремонту, улучшению его внешнего вида (тюнингу), и других услуг, относящихся к автомобильной сфере.</p>
+                <p>Основные клиенты предприятия – частные владельцы автотранспорта, водители служебных автомашин, автотранспортные организации.</p>
+                <p>В настоящий момент – это одно из самых популярных направлений бизнеса.</p>
+                <img src="16600375164872.jpg" alt="" title="" style="margin-right:40px;" />
+                <img src="Pokraska-mashiny-scaled2.jpg" alt="" title=""  />
+            </div>
+             
+            <!-- Левое меню - левый блок блок -->
+            <div class="left">
+                <div id="left-menu">
+                    <div class="block-nad-menu"></div>
+                    <div class="block-menu">
+                    <ul>
+                    <li><a href="#">Регламентное ТО</a></li>
+                    <li><a href="#">Подготовка и продажа новых и б/у автомобилей</a></li>
+                    <li><a href="#">Ремонт автоматических и механических коробок передач</a></li>
+                    <li><a href="#">Обслуживание и ремонт двигателей</a></li>
+                    <li><a href="#">Кузовной ремонт</a></li>
+                    <li><a href="#">Ремонт ходовой части, балансировка, развал-схождения</a></li>
+                    <li><a href="#">Ремонт электрики в машинах</a></li>
+                    <li><a href="#">Установка и обслуживание газового оборудования в автомобилях</a></li>
+                    <li><a href="#">Реставрация авто и запчастей</a></li>
+                    </ul>
+                    </div>
+                    <div class="block-pod-menu"></div>
+                </div>
+             
+            </div>
+         
+        </div>
+         
+        <div class="myclr"></div>
+         
+        <!-- Подвал -->
+        <div id="podval">
+            <div class="yellow"></div>
+            <div class="p1">ООО “Автомастерская” 2020г.<br/>
+            г. Ярослвавль, ул. Победы 5б</div>
+            <div class="p3"><img src="free-icon-car-service-6983413.png" alt="" title="" /></div>
+            <div class="p2">Быстрый и качественный ремонт<a href="#">«Сотрудничество»</a></div>
+        </div>
+        <div class="myclr"></div>
+         
+    </div>
+</body>
+</html>
